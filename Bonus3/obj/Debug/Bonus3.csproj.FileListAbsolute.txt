@@ -1,0 +1,7 @@
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\obj\Debug\Bonus3.csprojAssemblyReference.cache
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\obj\Debug\Bonus3.csproj.CoreCompileInputs.cache
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\bin\Debug\Bonus3.exe.config
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\bin\Debug\Bonus3.exe
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\bin\Debug\Bonus3.pdb
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\obj\Debug\Bonus3.exe
+C:\Users\bmwah\source\repos\Bonus3\Bonus3\obj\Debug\Bonus3.pdb
